@@ -5,4 +5,4 @@ Até o momento não foi utilizado nenhum framework nesse game, com o intuito de 
 
 # Deploy
 
-Para rodar esse jogo, você precisa ter instalado o PHP em seu computador. Em seguida, abra o diretório da versão do game que preferir e rode o comando: php index.php
+Para rodar esse jogo, você precisa ter instalado o PHP em seu computador. Em seguida, abra o diretório da versão do game que preferir, abra o terminal e rode o comando: php index.php
